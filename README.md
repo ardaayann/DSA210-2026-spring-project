@@ -13,7 +13,7 @@ This stage of the project includes:
 - hypothesis testing on important housing variables
 
 ## Dataset(s)
-The project uses the following Kaggle datasets:
+The project uses the following Kaggle datasets, which are stored in the `data/` folder:
 - House Prices - Advanced Regression Techniques
 - House Price Prediction Dataset
 
