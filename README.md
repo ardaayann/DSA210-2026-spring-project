@@ -35,3 +35,16 @@ Some of the main variables analyzed in this stage are:
 
 ## Notes
 Although two housing datasets were collected for the project, the main analysis in this stage focuses on the House Prices - Advanced Regression Techniques dataset because it provides a richer set of explanatory variables for EDA and hypothesis testing.
+
+## May 5 Progress
+This stage of the project includes:
+- data preparation for machine learning
+- Linear Regression
+- Random Forest Regressor
+- model comparison using MAE, RMSE, and R²
+- feature importance analysis
+
+## Machine Learning Notebook
+The notebook for the May 5 milestone is:
+
+`notebooks/dsa210_project_ML_Models.ipynb`
