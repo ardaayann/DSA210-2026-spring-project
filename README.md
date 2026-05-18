@@ -47,4 +47,14 @@ This stage of the project includes:
 ## Machine Learning Notebook
 The notebook for the May 5 milestone is:
 
+## Final Milestone
+This stage of the project includes:
+- final report writing
+- repository organization
+- documentation of the full project workflow
+
+## Final Report
+The final report document is available in:
+
+`report/Final_Report_Arda_Ayan_v5.docx`
 `notebooks/dsa210_project_ML_Models.ipynb`
